@@ -1,5 +1,3 @@
-# snake-game
-
 # Snake Game
 
 ## Description
